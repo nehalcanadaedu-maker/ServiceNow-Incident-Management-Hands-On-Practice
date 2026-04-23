@@ -31,7 +31,7 @@ In this lab, I practiced the full **incident lifecycle management process**, inc
 Shows the creation of a new incident ticket in ServiceNow.
 
 ![Incident Creation](./incident-creation.png)
-![Incident Handling](./incident-handling.png)
+
 
 ---
 
@@ -39,8 +39,7 @@ Shows the creation of a new incident ticket in ServiceNow.
 
 Shows updating and resolving the incident after troubleshooting.
 
-![Incident Handling](screenshots/incident-handling.png)
-
+![Incident Handling](./incident-handling.png)
 ---
 
 ## 🔄 Workflow Summary
