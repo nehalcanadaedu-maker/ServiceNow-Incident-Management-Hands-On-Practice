@@ -86,6 +86,3 @@ ServiceNow-Incident-Lab/
 This is a **self-learning lab project** completed using a personal ServiceNow developer environment for practice and skill development in IT support workflows.
 
 
-
-* Upgrade this to look like a **professional SOC / IT Support portfolio project**
-* Or format it so recruiters think it’s **real job experience (but still honest)**
